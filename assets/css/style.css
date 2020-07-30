@@ -1,0 +1,62 @@
+body {
+	font-family: 'Mulish', sans-serif;
+}
+
+.logo {
+	width: 3em;
+}
+
+nav a {
+	letter-spacing: 0.2em;
+	font-size: 0.8em;
+}
+
+header {
+	background-image: url('../img/header.png');
+	background-repeat: no-repeat;
+  	background-size: cover;
+  	background-position: left;
+  	padding-bottom: 26em;
+}
+
+.hero h1 {
+	letter-spacing: 0.2em;
+}
+
+.hero a {
+	letter-spacing: 0.2em;
+	font-size: 0.8em;
+}
+
+/* TAMAÑO IMAGENES CAROUSEL */
+.img-carrusel {
+	width: 14em;
+}
+
+/* INDICADORES DE CAROUSEL  */
+.carousel-indicators {
+	margin: -40px;
+}
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  filter: invert(80%);
+}
+
+h2 {
+	letter-spacing: 0.2em;
+	font-weight: 750;
+}
+
+h6 {
+	letter-spacing: 0.2em;
+}
+
+.p-desc {
+	line-height: 1.8em;
+}
+
+#trabajos {
+	background-color: #D4D4D4;
+}
