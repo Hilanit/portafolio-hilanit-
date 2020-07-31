@@ -35,6 +35,10 @@ nav a {
       align-items: flex-start;
       height: 300px;
     }
+
+    h1 {
+    	font-size: 1.5em;
+    }
   }
 
 .hero h1 {
@@ -69,6 +73,7 @@ nav a {
 h2 {
 	letter-spacing: 0.2em;
 	font-weight: 750;
+	color: #202020;
 }
 
 
@@ -84,7 +89,22 @@ h6 {
 }
 
 
-
+/*SECCION TRABAJOS*/
 #trabajos {
-	background-color: #F3F3F3;
+	background-color: #FAFAFA;
+}
+
+#trabajos h5 {
+	letter-spacing: 0.2em;
+	font-size: 0.9em;
+}
+
+.card {
+	border: none;
+}
+
+
+footer p {
+	letter-spacing: 0.2em;
+	font-size: 0.8em;
 }
