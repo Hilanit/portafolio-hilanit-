@@ -15,7 +15,6 @@ $(function(){
   });
 
 
-
 $('[data-toggle="popover"]').popover();
 
 $(function () {
